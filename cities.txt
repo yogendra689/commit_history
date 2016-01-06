@@ -1,0 +1,6 @@
+CITIES  = %w(
+  Mumbai
+  Delhi
+  Kolkata
+  Chennai
+)
