@@ -4,3 +4,12 @@ CITIES  = %w(
   Kolkata
   Chennai
 )
+
+TIER_2_CITIES = %w(
+  Pune
+  Bengaluru
+  Indore
+  Ahmadabad
+  Hyderabad
+  Kochi
+)
